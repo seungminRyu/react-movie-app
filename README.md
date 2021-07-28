@@ -1,3 +1,3 @@
-# First react app 2020/03/16
+# 첫 리액트 앱 2020/03/16
 
-React JS Fundemental course
+리액트 연습을 위한 영화 정보 사이트
